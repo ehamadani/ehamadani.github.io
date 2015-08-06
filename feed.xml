@@ -10,15 +10,16 @@
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Hello World</title>
+    <title>Today's Post</title>
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T10:00:00-07:00</published>
-    <updated>2015-08-06T10:00:23-07:00</updated>
+    <updated>2015-08-06T11:06:47-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">
+    <content type="html">&lt;h1 id="this-is-me-doing-some-rocking-stuff-online"&gt;This is me doing some rocking stuff online&lt;/h1&gt;
+
 </content>
   </entry>
   <entry>
