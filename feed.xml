@@ -14,11 +14,15 @@
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T10:00:00-07:00</published>
-    <updated>2015-08-06T11:06:47-07:00</updated>
+    <updated>2015-08-08T23:20:14-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h1 id="this-is-me-doing-some-rocking-stuff-online"&gt;This is me doing some rocking stuff online&lt;/h1&gt;
+
+&lt;p&gt;&lt;img alt="test" src="/images/IMG_1884.JPG" /&gt;&lt;/p&gt;
+
+&lt;h2 id="working-with-markdown-language"&gt;Working with Markdown language&lt;/h2&gt;
 
 </content>
   </entry>
@@ -27,11 +31,12 @@
     <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
     <id>http://blog.url.com/2012/01/01/example-article.html</id>
     <published>2011-12-31T16:00:00-08:00</published>
-    <updated>2015-08-06T09:58:22-07:00</updated>
+    <updated>2015-08-08T23:54:09-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+
 </content>
   </entry>
 </feed>
